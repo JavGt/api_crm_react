@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Luis",
+      "empresa": "Telcel",
+      "email": "correo@correo.com",
+      "telefono": "34",
+      "notas": "w43",
+      "id": 7
+    }
+  ]
+}
